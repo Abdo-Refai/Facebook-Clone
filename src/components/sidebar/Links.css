@@ -1,0 +1,22 @@
+.link-parent {
+    margin-top: 15px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+.link-icon {
+    margin-right: 10px;
+    font-size: 19px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0 10px;
+    color: #767a81;
+    padding: 2px 10px;
+}
+.link-icon:hover {
+    background-color: #1b79e5;
+    color: white;
+    transition: .3s;
+    border-radius: 5px;
+}

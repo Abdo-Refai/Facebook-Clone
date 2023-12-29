@@ -1,0 +1,35 @@
+.chat-form {
+    z-index: 2000;
+    position: absolute;
+}
+.chat-parent {
+    height: 300px;
+    width: 250px;
+    background-color: white;
+    padding: 10px;
+    position: relative;
+    display: none;
+    margin-top: 20vh;
+}
+.chat-icon {
+    margin-right: 10px;
+    color: #1b79e5;
+    font-size: 20px;
+    cursor: pointer;
+}
+.chat-input {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f8f8f9;
+    border: 1px solid black;
+}
+.chat-input:focus {
+    outline: none;
+}
+
+
+.chat-clicked {
+    display: block;
+}

@@ -1,0 +1,36 @@
+.parent {
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+.some-info {
+    margin: 5px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    padding: 5px;
+}
+.box .info-img {
+    width: 40px;
+}
+.box {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-align: center;
+}
+p {
+    font-weight: bold;
+}
+span {
+    color: #767a81;
+    font-weight: normal;
+}
+.check {
+    color: #1b79e5;
+}
+
+ul li {
+    width: 100%;
+    margin: 5px;
+    color: #767a81;
+}

@@ -1,0 +1,354 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "image": "Imgs/avatar-01.png",
+      "name": "Mohamed Ali",
+      "time": "15 min ago",
+      "video": "videos/video-one.mp4",
+      "title": "Beautiful sunlight in the forest",
+      "desciption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse eaque hic, fugit consequuntur a possimus. Aperiam itaque omnis impedit reiciendis.",
+      "like": "89",
+      "comment": "34",
+      "share": "10",
+      "saved": "6"
+    },
+    {
+      "id": 2,
+      "image": "Imgs/avatar-02.jpg",
+      "name": "Ali Ali",
+      "time": "34 min ago",
+      "video": "videos/video-two.mp4",
+      "title": "look up",
+      "desciption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse eaque hic, fugit consequuntur a possimus. Aperiam itaque omnis impedit reiciendis.",
+      "like": "67",
+      "comment": "22",
+      "share": "13",
+      "saved": "7"
+    },
+    {
+      "id": 3,
+      "image": "Imgs/avatar-03.jpg",
+      "name": "Marwan Ahmed",
+      "time": "12 hours ago",
+      "video": "videos/video-three.mp4",
+      "title": "rain falling on green pond in forest",
+      "desciption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse eaque hic, fugit consequuntur a possimus. Aperiam itaque omnis impedit reiciendis.",
+      "like": "120",
+      "comment": "56",
+      "share": "23",
+      "saved": "17"
+    },
+    {
+      "id": 4,
+      "image": "Imgs/avatar-04.avif",
+      "name": "Mustafa Ibrahim",
+      "time": "56 min ago",
+      "video": "videos/video-four.mp4",
+      "title": "rain on the lake, large, slow",
+      "desciption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse eaque hic, fugit consequuntur a possimus. Aperiam itaque omnis impedit reiciendis.",
+      "like": "12",
+      "comment": "8",
+      "share": "0",
+      "saved": "0"
+    },
+    {
+      "id": 5,
+      "image": "Imgs/avatar-05.jpg",
+      "name": "Nada Ali",
+      "time": "15 hours ago",
+      "video": "videos/video-five.mp4",
+      "title": "Rainy fall ambiance: Raindrops in slowed motion disturb a puddle; bubbles rise, mirrored treeline and sky appear.",
+      "desciption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse eaque hic, fugit consequuntur a possimus. Aperiam itaque omnis impedit reiciendis.",
+      "like": "45",
+      "comment": "22",
+      "share": "10",
+      "saved": "6"
+    }
+  ],
+  "watchlist": [
+    {
+      "id": 1,
+      "image": "Imgs/avatar-01.png",
+      "name": "James Saris",
+      "views": "8 New Videos",
+      "suggest": "Recently"
+    },
+    {
+      "id": 2,
+      "image": "Imgs/avatar-02.jpg",
+      "name": "Alfredo Press",
+      "views": "8 New Videos",
+      "suggest": "Recently"
+    },
+    {
+      "id": 3,
+      "image": "Imgs/avatar-03.jpg",
+      "name": "Jaydan Smith",
+      "views": "8 New Videos",
+      "suggest": "Followed by Leo Dokidis"
+    },
+    {
+      "id": 4,
+      "image": "Imgs/avatar-04.avif",
+      "name": "Martin Botoch",
+      "views": "8 New Videos",
+      "suggest": "Suggested for You"
+    },
+    {
+      "id": 5,
+      "image": "Imgs/avatar-05.jpg",
+      "name": "Albert Alores",
+      "views": "8 New Videos",
+      "suggest": "Suggested for You"
+    },
+    {
+      "id": 6,
+      "image": "Imgs/avatar-06.avif",
+      "name": "James Corey",
+      "views": "8 New Videos",
+      "suggest": "Followed by Leo Dokidis"
+    }
+  ],
+  "subsciption": [
+    {
+      "id": 1,
+      "image": "Imgs/UX Planet Design.jpeg",
+      "title": "UX Planet Design"
+    },
+    {
+      "id": 2,
+      "image": "Imgs/Marvel Entertainment.jpeg",
+      "title": "Marvel Entertainment"
+    },
+    {
+      "id": 3,
+      "image": "Imgs/Ellen.png",
+      "title": "The Ellen DeGeneres Show"
+    },
+    {
+      "id": 4,
+      "image": "Imgs/Netflix.png",
+      "title": "Netflix"
+    },
+    {
+      "id": 5,
+      "image": "Imgs/National Geographic.jpg",
+      "title": "National Geographic"
+    },
+    {
+      "id": 6,
+      "image": "Imgs/Jimmy Kimmel Live.jpg",
+      "title": "Jimmy Kimmel Live"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "mainImage": "Imgs/Event Inspiration.webp",
+      "time": "SAT 10.00 AM",
+      "date": "26",
+      "title": "Event Inspiration | 14 Resources to Inspire, Delight, and Reignite",
+      "address": "Location: 24 Royal  Ln. Mesa. New Jersey",
+      "image1": "Imgs/avatar-01.png",
+      "image2": "Imgs/avatar-03.jpg",
+      "image3": "Imgs/avatar-06.avif",
+      "image4": "Imgs/avatar-02.jpg"
+    },
+    {
+      "id": 2,
+      "mainImage": "Imgs/Event Professional.png",
+      "time": "SUN 11.00 AM",
+      "date": "28",
+      "title": "7 Quotes to Inspire Every Event Professional - Cheers and Confetti Blog by Eventective",
+      "address": "Location: 24 Royal  Ln. Mesa. New Jersey",
+      "image1": "Imgs/avatar-04.avif",
+      "image2": "Imgs/avatar-01.png",
+      "image3": "Imgs/avatar-05.jpg",
+      "image4": "Imgs/avatar-06.avif"
+    },
+    {
+      "id": 3,
+      "mainImage": "Imgs/EventPlanning.webp",
+      "time": "MON 4.00 PM",
+      "date": "22",
+      "title": "How to Plan Events - EventPlanning.com",
+      "address": "Location: 24 Royal  Ln. Mesa. New Jersey",
+      "image1": "Imgs/avatar-05.jpg",
+      "image2": "Imgs/avatar-04.avif",
+      "image3": "Imgs/avatar-03.jpg",
+      "image4": "Imgs/avatar-02.jpg"
+    },
+    {
+      "id": 4,
+      "mainImage": "Imgs/Planning multiple events.png",
+      "time": "TUS 09.00 PM",
+      "date": "27",
+      "title": "Planning multiple events? Here's how to stay organized. - Expo, Inc.",
+      "address": "Location: 24 Royal  Ln. Mesa. New Jersey",
+      "image1": "Imgs/avatar-01.png",
+      "image2": "Imgs/avatar-02.jpg",
+      "image3": "Imgs/avatar-03.jpg",
+      "image4": "Imgs/avatar-04.avif"
+    },
+    {
+      "id": 5,
+      "mainImage": "Imgs/event freelancer.png",
+      "time": "THU 10.00 AM",
+      "date": "25",
+      "title": "How to stay organized as a freelancer",
+      "address": "Location: 24 Royal  Ln. Mesa. New Jersey",
+      "image1": "Imgs/avatar-06.avif",
+      "image2": "Imgs/avatar-02.jpg",
+      "image3": "Imgs/avatar-04.avif",
+      "image4": "Imgs/avatar-01.png"
+    },
+    {
+      "id": 6,
+      "mainImage": "Imgs/event planners.png",
+      "time": "SAT 10.00 AM",
+      "date": "24",
+      "title": "25 Quotes to inspire event planners",
+      "address": "Location: 24 Royal  Ln. Mesa. New Jersey",
+      "image1": "Imgs/avatar-04.avif",
+      "image2": "Imgs/avatar-01.png",
+      "image3": "Imgs/avatar-02.jpg",
+      "image4": "Imgs/avatar-05.jpg"
+    }
+  ],
+  "chats": [
+    {
+      "id": 1,
+      "image": "Imgs/avatar-01.png",
+      "name": "James Saris"
+    },
+    {
+      "id": 2,
+      "image": "Imgs/avatar-02.jpg",
+      "name": "Alfredo Press"
+    },
+    {
+      "id": 3,
+      "image": "Imgs/avatar-03.jpg",
+      "name": "Jaydan Smith"
+    },
+    {
+      "id": 4,
+      "image": "Imgs/avatar-04.avif",
+      "name": "Martin Botoch"
+    },
+    {
+      "id": 5,
+      "image": "Imgs/avatar-05.jpg",
+      "name": "Sarah Alores"
+    },
+    {
+      "id": 6,
+      "image": "Imgs/avatar-06.avif",
+      "name": "James Corey"
+    },
+    {
+      "id": 7,
+      "image": "Imgs/avatar-01.png",
+      "name": "Alfredo Jaydan"
+    },
+    {
+      "id": 8,
+      "image": "Imgs/avatar-02.jpg",
+      "name": "James Smith"
+    }
+  ],
+  "chat": [
+    {
+      "title": "hello world!",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "mainImage": "Imgs/avatar-01.png",
+      "name": "James Saris",
+      "time": "15 hours ago",
+      "image": "Imgs/Planning multiple events.png",
+      "video": "videos/video-one.mp4",
+      "like": "89",
+      "comment": "34",
+      "share": "10",
+      "saved": "6"
+    },
+    {
+      "id": 2,
+      "mainImage": "Imgs/avatar-02.jpg",
+      "name": "Alfredo Press",
+      "time": "15 min ago",
+      "image": "Imgs/EventPlanning.webp",
+      "video": "videos/video-two.mp4",
+      "like": "89",
+      "comment": "34",
+      "share": "10",
+      "saved": "6"
+    },
+    {
+      "id": 3,
+      "mainImage": "Imgs/avatar-03.jpg",
+      "name": "Jaydan Smith",
+      "time": "34 min ago",
+      "image": "Imgs/Marvel Entertainment.jpeg",
+      "video": "videos/video-three.mp4",
+      "like": "89",
+      "comment": "34",
+      "share": "10",
+      "saved": "6"
+    },
+    {
+      "id": 4,
+      "mainImage": "Imgs/avatar-04.avif",
+      "name": "Martin Botoch",
+      "time": "12 hours ago",
+      "image": "Imgs/Event Inspiration.webp",
+      "video": "videos/video-four.mp4",
+      "like": "89",
+      "comment": "34",
+      "share": "10",
+      "saved": "6"
+    }
+  ],
+  "story": [
+    {
+      "id": 1,
+      "image": "Imgs/avatar-01.png",
+      "name": "Albert Alores"
+    },
+    {
+      "id": 2,
+      "image": "Imgs/avatar-02.jpg",
+      "name": "Alfredo Press"
+    },
+    {
+      "id": 3,
+      "image": "Imgs/avatar-03.jpg",
+      "name": "Alfredo Press"
+    },
+    {
+      "id": 4,
+      "image": "Imgs/avatar-04.avif",
+      "name": "Ali Ali"
+    },
+    {
+      "id": 5,
+      "image": "Imgs/avatar-05.jpg",
+      "name": "Sarah Alores"
+    },
+    {
+      "id": 6,
+      "image": "Imgs/avatar-06.avif",
+      "name": "James Saris"
+    },
+    {
+      "id": 7,
+      "image": "Imgs/avatar-03.jpg",
+      "name": "James Smith"
+    }
+  ]
+}

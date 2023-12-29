@@ -1,0 +1,16 @@
+.online-parent {
+    background-color: white;
+    padding: 10px;
+}
+.online-box {
+    cursor: pointer;
+    padding: 5px;
+}
+.online-box:hover {
+    background-color: #f4ecec;
+}
+.online-img {
+    width: 30px;
+    border-radius: 50%;
+    margin-right: 15px;
+}

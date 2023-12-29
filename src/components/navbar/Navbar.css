@@ -1,0 +1,52 @@
+.navbar {
+    background-color: white;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 3;
+}
+.share {
+    background-color: #1b79e5;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.text {
+    margin: 0 15px;
+}
+.a-href {
+    text-decoration: none;
+    color: black;
+}
+.form {
+    background-color: #f8f8f9;
+    color: #767a81;
+    padding: 5px;
+    border-radius: 10px;
+    position: relative;
+}
+.form input {
+    border: none;
+    background-color: #f8f8f9;
+    margin-left: 10px;
+    width: 100%;
+}
+.form input:focus {
+    outline: none;
+}
+.img {
+    width: 50px;
+}
+.bell {
+    background-color: #f8f8f9;
+    padding: 10px;
+    color: #767a81;
+    border-radius: 10px;
+}
+.bookmark {
+    margin: 0 15px;
+    background-color: #f8f8f9;
+    padding: 10px;
+    color: #767a81;
+    border-radius: 10px;
+}

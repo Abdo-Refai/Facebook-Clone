@@ -1,0 +1,58 @@
+.heading {
+    display: flex;
+    justify-content: space-between;
+}
+.cart {
+    color: #767a81;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 22px;
+}
+.card-img {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 0 auto;
+}
+.card-text {
+    margin: 0;
+}
+.card-title {
+    color: #767a81;
+    font-weight: normal;
+    font-size: 15px;
+}
+.rate {
+    display: flex;
+    justify-content: space-between;
+    color: #767a81;
+    font-size: 12px;
+    align-items: center;
+}
+.sold {
+    text-align: right;
+}
+.star {
+    margin-right: 3px;
+}
+.categories {
+    background-color: white;
+    padding: 15px;
+    margin-top: 90px;
+}
+.categories h4 {
+    text-align: left;
+    margin: 10px 0;
+}
+.categories .li {
+    list-style: none;
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+    margin: 0;
+    color: #767a81;
+}
+.categories .li:hover {
+    background-color: #e5f1ff;
+    color: #1b79e5;
+}

@@ -1,0 +1,45 @@
+.story-parent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding: 10px 10px 0;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+.your-story-img {
+    border: 2px solid #e4e4e6 !important;
+    position: relative;
+}
+.story-icon {
+    position: absolute;
+    top: 150px;
+    left: 360px;
+    color: #1b79e5;
+    font-size: 20px;
+    z-index: 2;
+}
+.story-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 10px;
+    width: 100%;
+    margin: 0 auto 20px;
+    cursor: pointer;
+}
+.story-box .story-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 0 auto 8px;
+    border: 2px solid #1b79e5;
+    padding: 0;
+}
+.story-box .story-name {
+    margin: 0 auto;
+    padding: 0;
+    line-height: 1;
+    font-size: 14px;
+}

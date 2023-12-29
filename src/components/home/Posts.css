@@ -1,0 +1,57 @@
+.home-post-parent {
+    z-index: 10;
+}
+.home-main-image {
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+}
+.home-posts {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.card {
+    padding: 10px;
+    z-index: 1000;
+}
+.home-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.home-heading .home-heading-left {
+    display: flex;
+}
+.home-heading .home-heading-left h3 {
+    font-size: 17px;
+    margin: 0;
+}
+.home-heading .home-heading-left p {
+    font-size: 14px;
+    font-weight: normal;
+    color: #767a81;
+}
+video {
+    border-radius: 20px;
+}
+.home-post-image {
+    width: 100%;
+    height: 300px;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    color: #767a81;
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #767a81;
+}
+.footer .foot-left {
+    display: flex;
+    gap: 15px;
+}
+.footer .foot-right,
+.footer .foot-left {
+    cursor: pointer;
+}
