@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import AppNavbar from "./components/navbar/Navbar";
@@ -23,6 +24,7 @@ function App() {
           <Route path="events" element={<Events />} />
         </Routes>
       </Container>
+      <SpeedInsights />
     </div>
   );
 }
