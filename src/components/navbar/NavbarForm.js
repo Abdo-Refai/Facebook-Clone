@@ -1,4 +1,4 @@
-import "./Navbar-form.css";
+import "./NavbarForm.css";
 import image2 from "../Imgs/avatar-02.jpg";
 import image3 from "../Imgs/avatar-03.jpg";
 import image4 from "../Imgs/avatar-04.avif";

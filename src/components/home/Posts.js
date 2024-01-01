@@ -10,7 +10,7 @@ import "./Posts.css";
 import "./Chat.css";
 
 function Posts() {
-  let [post, setPost] = useState([]);
+  let [posts, setPost] = useState([]);
 
   useEffect(() => {
     fetch("http://localhost:9000/posts")
@@ -20,7 +20,7 @@ function Posts() {
 
   return (
     <div className="home-post-parent">
-      {post.map((post) => {
+      {posts.map((post) => {
         return (
           <div className="card mb-3" key={post.id}>
             <div className="home-heading">
@@ -56,7 +56,7 @@ function Posts() {
           </div>
         );
       })}
-      {post.map((post) => {
+      {posts.map((post) => {
         return (
           <div className="card mb-3" key={post.id}>
             <div className="home-heading">

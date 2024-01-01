@@ -10,7 +10,7 @@ import {
 import { Col, Image } from "react-bootstrap";
 import "./Navbar.css";
 import image1 from "../Imgs/avatar-01.png";
-import NavbarForm from "./Navbar-form";
+import NavbarForm from "./NavbarForm";
 import { Link } from "react-router-dom";
 
 function AppNavbar() {

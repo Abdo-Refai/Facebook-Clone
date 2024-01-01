@@ -1,4 +1,4 @@
-import "./Market-place.css";
+import "./MarketPlace.css";
 import Sidebar from "../sidebar/Sidebar";
 import { Col, Container, Row } from "react-bootstrap";
 import { useEffect, useState } from "react";
@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCartShopping, faStar } from "@fortawesome/free-solid-svg-icons";
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
-import { addToCart } from "../../rtk/slices/cart-slice";
+import { addToCart } from "../../rtk/slices/CartSlice";
 
 function MarketPlace() {
   let cart = useSelector((state) => state.cart);
@@ -90,13 +90,9 @@ function MarketPlace() {
             <p className="li" onClick={() => fetchProducts()}>
               get All Products
             </p>
-            {category.map((cat) => {
+            {category.map((cat, index) => {
               return (
-                <p
-                  className="li"
-                  key={cat.id}
-                  onClick={() => categoryName(cat)}
-                >
+                <p className="li" key={index} onClick={() => categoryName(cat)}>
                   {cat}
                 </p>
               );
